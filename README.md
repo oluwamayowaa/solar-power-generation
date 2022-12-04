@@ -1,1 +1,4 @@
-# solar-power-generation
+# Solar Power Generation
+
+Solar energy generation is one of fast growing and most promising renewable energy sources of power generation worldwide.
+Variables such as irradiation, temperature, humidity and wind velocity have great influence on the production of PV systems(solar cells interconnected to form a PV module to capture sun rays and convert solar energy to electrical energy). The goal of this project is to build the relationship between the weather with the production of PV systems by analyzing history data. Through the model, we are able to use predicted data of weather in the near future to predict the production of PV systems. Once the results deviate much from predictions, there are probably problems with PV system, and the reason need to be figured out, so that appropriate measures to fix the PV system can be taken.
